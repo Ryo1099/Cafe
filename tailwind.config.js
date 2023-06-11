@@ -16,7 +16,7 @@ module.exports = {
         'hero-pattern': "url('/src/images/hero-coffee.png')",
         'hero-color': "url('/src/images/hero-color.png')",
         'bean': "url('/src/images/beans.png')",
-        'coffee': "url('/src/images/coffee.png')",
+        'coffee': "url('/src/images/about.jpg')",
       },
       dropShadow: {
         '3xl': '0 35px 35px rgba(0, 0, 0, 0.25)',
