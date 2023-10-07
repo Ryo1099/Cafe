@@ -13,7 +13,7 @@ module.exports = {
         'cafe-yellow': "#ffae00",
       },
       backgroundImage: {
-        'hero-pattern': "url('/public/images/hero-coffee.png')",
+        'hero-pattern': "url('images/hero-coffee.png')",
         'hero-color': "url('/public/images/hero-color.png')",
         'bean': "url('/public/images/beans.png')",
         'coffee': "url('/public/images/about.jpg')",
