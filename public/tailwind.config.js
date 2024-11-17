@@ -14,9 +14,9 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern': "url('images/hero-coffee.png')",
-        'hero-color': "url('/public/images/hero-color.png')",
-        'bean': "url('/public/images/beans.png')",
-        'coffee': "url('/public/images/about.jpg')",
+        'hero-color': "url('images/hero-color.png')",
+        'bean': "url('images/beans.png')",
+        'coffee': "url('images/about.jpg')",
       },
       dropShadow: {
         '3xl': '0 35px 35px rgba(0, 0, 0, 0.25)',

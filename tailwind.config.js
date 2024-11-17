@@ -13,10 +13,10 @@ module.exports = {
         'cafe-yellow': "#ffae00",
       },
       backgroundImage: {
-        'hero-pattern': "url('/src/images/hero-coffee.png')",
-        'hero-color': "url('/src/images/hero-color.png')",
-        'bean': "url('/src/images/beans.png')",
-        'coffee': "url('/src/images/about.jpg')",
+        'hero-pattern': "url('images/hero-coffee.png')",
+        'menu': "url('images/menu-coffee.png')",
+        'bean': "url('images/beans.png')",
+        'coffee': "url('images/about.jpg')",
       },
       dropShadow: {
         '3xl': '0 35px 35px rgba(0, 0, 0, 0.25)',
